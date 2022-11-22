@@ -97,7 +97,7 @@ parso==0.5.1
 passlib==1.7.2
 pickleshare==0.7.5
 pid==2.2.5
-Pillow==7.0.0
+Pillow==9.3.0
 playsound==1.2.2
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
